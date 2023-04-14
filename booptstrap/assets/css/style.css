@@ -1,0 +1,22 @@
+:root {
+    --border: 2px solid black;
+}
+
+body {
+    height: 100vh;
+
+}
+
+header {
+    height: 20vh;
+
+}
+
+main {
+    height: 60vh;
+
+}
+
+footer {
+    height: 20vh;
+}
